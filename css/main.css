@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background-color: white;
+	color: #FFF;
+}
+
+main {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background: white;
+}
+
+header {
+	position: fixed;
+	width: 375px;
+	height: 50px;
+	background: white;
+	top: 0;
+}
+
+footer {
+	position: fixed;
+	width: 375px;
+	height: 70px;
+	background: white;
+	bottom: 0;
+}
+
+section {
+	position: fixed;
+	width: 375px;
+	height: 567px;
+	top: 50px;
+	background: white;
+}

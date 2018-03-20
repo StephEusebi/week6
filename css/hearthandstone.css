@@ -1,0 +1,374 @@
+/* HEARTH & STONE BISTRO */
+
+
+/* HEARTH & STONE BISTRO - HOME/WELCOME-BANNER */
+
+.header-rest1 {
+	position: absolute;
+	background-color: #869ec4;
+	width: 375px;
+	height: 50px;
+	top: 0;
+}
+
+.header-text-welcome {
+	font-family: 'Questrial', sans-serif;
+	font-size: 180%;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+/* HEARTH & STONE BISTRO - HOME PAGE */
+
+.rest1logo {
+	position: fixed;
+	top: 31%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 90%;
+}
+
+.rest1-logobox {
+	width: 300px;
+	height: 200px;
+	opacity: 0.5;
+	background-color: white;
+	position: fixed;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.rest1-welcometext {
+	font-family: 'Questrial', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	width: 300px;
+	background: white;
+	padding: 10px;
+	position: fixed;
+	bottom: 85px;
+	color: #607493;
+	right: 37.5px;
+}
+
+
+/* HEARTH & STONE BISTRO - HOME-FOOTER */
+
+footer {
+	position: fixed;
+	width: 375px;
+	height: 70px;
+	background: #869ec4;
+	bottom: 0;
+}
+
+.menu {
+	position: fixed;
+	width: 30px;
+	left: 81px;
+	bottom: 12px;
+}
+
+.calendar {
+	position: fixed;
+	width: 42px;
+	left: 166px;
+	bottom: 12px;
+}
+
+.location {
+	position: fixed;
+	width: 32px;
+	right: 80px;
+	bottom: 12px;
+}
+
+
+/* HEARTH & STONE BISTRO - DAILY SPECIALS -BANNER */
+
+.headertextspecials {
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+/* HEARTH & STONE BISTRO - DAILY SPECIALS 1 */
+
+.rest1-special1-name {
+	font-family: 'Questrial', sans-serif;
+	font-size: 130%;
+	position: fixed;
+	background-color: white;
+	color: #607493;
+	margin-top: 5.33px;
+	padding: 10px;
+}
+
+.rest1-specials1-image {
+	margin-top: 5.33px;
+	position: fixed;
+}
+
+.rest1-special1-price {
+	font-family: 'Questrial', sans-serif;
+	font-size: 150%;
+	position: fixed;
+	background-color: #869ec4;
+	color: white;
+	margin-top: 122.33px;
+	padding: 5px 15px;
+	right: 0;
+}
+
+
+/* HEARTH & STONE BISTRO - DAILY SPECIALS 2 */
+
+.rest1-special2-name {
+	font-family: 'Questrial', sans-serif;
+	font-size: 130%;
+	position: fixed;
+	background-color: white;
+	color: #607493;
+	margin-top: 187.66px;
+	padding: 10px;
+}
+
+.rest1-specials2-image {
+	margin-top: 187.66px;
+	position: fixed;
+}
+
+.rest1-special2-price {
+	font-family: 'Questrial', sans-serif;
+	font-size: 150%;
+	position: fixed;
+	background-color: #869ec4;
+	color: white;
+	margin-top: 304.66px;
+	padding: 5px 15px;
+	right: 0;
+}
+
+
+/* HEARTH & STONE BISTRO - DAILY SPECIALS 3 */
+
+.rest1-special3-name {
+	font-family: 'Questrial', sans-serif;
+	font-size: 130%;
+	position: fixed;
+	background-color: white;
+	color: #607493;
+	margin-top: 369.99px;
+	padding: 10px;
+}
+
+.rest1-specials3-image {
+	margin-top: 369.99px;
+	position: fixed;
+}
+
+.rest1-special3-price {
+	font-family: 'Questrial', sans-serif;
+	font-size: 150%;
+	position: fixed;
+	background-color: #869ec4;
+	color: white;
+	margin-top: 486.99px;
+	padding: 5px 15px;
+	right: 0;
+}
+
+
+/* HEARTH & STONE BISTRO - DAILY SPECIALS -FOOTER */
+
+.menufooterbox {
+	width: 80px;
+	height: 70px;
+	background-color: #607493;
+	position: fixed;
+	bottom: 0;
+	left: 15%;
+}
+
+
+/* HEARTH & STONE BISTRO - RESERVATIONS -BANNER */
+
+.header-text-reservations {
+	font-family: 'Questrial', sans-serif;
+	font-size: 180%;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+/* HEARTH & STONE BISTRO - RESERVATIONS -PAGE */
+
+.rest1reservationsbutton {
+	background-color: #869ec4;
+	padding: 10px 20px;
+	position: fixed;
+	border-radius: 2px;
+	cursor: pointer;
+	border: none;
+	margin-top: 82%;
+	color: white;
+	font-size: 180%;
+	left: 25%;
+}
+
+.reservationswhitebox {
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-weight: bold;
+	font-size: 180%;
+	padding-top: 15px;
+	width: 300px;
+	height: 310px;
+	position: fixed;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	opacity: .8;
+}
+
+.lineone {
+	border-bottom: 1px solid #000;
+	width: 250px;
+	top: 26%;
+	position: fixed;
+	left: 16%;
+}
+
+.partysize {
+	position: fixed;
+	color: black;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 130%;
+	font-weight: bold;
+	top: 30%;
+	left: 15%;
+}
+
+.fortwo {
+	position: fixed;
+	color: gray;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 90%;
+	top: 32%;
+	left: 15%;
+}
+
+i {
+	border: solid grey;
+	border-width: 0 3px 3px 0;
+	display: inline-block;
+	padding: 3px;
+}
+
+.down1 {
+	position: fixed;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	top: 36%;
+	left: 78%;
+}
+
+.linetwo {
+	border-bottom: 1px solid #000;
+	width: 250px;
+	top: 39%;
+	position: fixed;
+	left: 16%;
+}
+
+.date {
+	position: fixed;
+	color: black;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 110%;
+	font-weight: bold;
+	top: 42%;
+	left: 15%;
+}
+
+.today {
+	position: fixed;
+	color: gray;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 90%;
+	top: 44%;
+	left: 15%;
+}
+
+.down2 {
+	position: fixed;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	top: 48%;
+	left: 45%;
+}
+
+.time {
+	position: fixed;
+	color: black;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 110%;
+	font-weight: bold;
+	top: 42%;
+	left: 52%;
+}
+
+.thetime {
+	position: fixed;
+	color: gray;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	font-size: 90%;
+	top: 44%;
+	left: 52%;
+}
+
+.down3 {
+	position: fixed;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	top: 48%;
+	left: 78%;
+}
+
+.linethree {
+	border-bottom: 1px solid #000;
+	width: 250px;
+	top: 51%;
+	position: fixed;
+	left: 16%;
+}
+
+
+/* HEARTH & STONE BISTRO - RESERVATIONS -FOOTER */
+
+.calendarfooterbox {
+	width: 80px;
+	height: 70px;
+	background-color: #607493;
+	position: fixed;
+	bottom: 0;
+	left: 39.5%;
+}

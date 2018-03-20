@@ -1,0 +1,35 @@
+/* SPLASH PAGE */
+
+#splash {
+	background: white;
+}
+
+.title {
+	font-family: 'Sarala', sans-serif;
+	font-size: 30px;
+	position: absolute;
+	color: #b26a6a;
+	margin-left: 65px;
+	margin-top: 180px;
+}
+
+.logo {
+	width: 173px;
+	height: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.toplogo {
+	width: 375px;
+	position: absolute;
+	top: 0;
+}
+
+.bottomlogo {
+	width: 375px;
+	position: absolute;
+	bottom: 0;
+}

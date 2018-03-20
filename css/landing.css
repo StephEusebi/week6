@@ -1,0 +1,150 @@
+/* LANDING PAGE - top banner section*/
+
+#landing {
+	background-color: white;
+}
+
+.header-landing {
+	position: absolute;
+	background-color: #b26a6a;
+	width: 375px;
+	height: 50px;
+	top: 0;
+}
+
+.text-header-landing {
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.bell {
+	position: absolute;
+	right: 15px;
+	top: 12px;
+	width: 30px;
+}
+
+.hamburger {
+	position: absolute;
+	left: 15px;
+	top: 18px;
+	width: 30px;
+}
+
+
+/* LANDING PAGE - hearth and stone bistro section */
+
+.firstimg {
+	overflow: hidden;
+}
+
+.landing-image1 {
+	margin-top: 55.6px;
+	position: fixed;
+}
+
+.landinglogo1 {
+	position: fixed;
+	top: 55.6px;
+	width: 150px;
+}
+
+.friends1 {
+	position: fixed;
+	left: 10px;
+	top: 221px;
+}
+
+.button1 {
+	background-color: #b26a6a;
+	width: 55px;
+	height: 20px;
+	position: fixed;
+	border-radius: 5px;
+	cursor: pointer;
+	border: none;
+	margin-top: 221px;
+	color: white;
+	font-size: 14px;
+	right: 10px;
+}
+
+
+/* LANDING PAGE - crispy's section */
+
+.secondimg {
+	overflow: hidden;
+}
+
+.landing-image2 {
+	margin-top: 261.2px;
+	position: fixed;
+}
+
+.landinglogo2 {
+	position: fixed;
+	top: 261.2px;
+	width: 150px;
+}
+
+.friends2 {
+	position: fixed;
+	left: 10px;
+	top: 426px;
+}
+
+.button2 {
+	background-color: #b26a6a;
+	width: 55px;
+	height: 20px;
+	position: fixed;
+	border-radius: 5px;
+	cursor: pointer;
+	border: none;
+	margin-top: 426px;
+	color: white;
+	font-size: 14px;
+	right: 10px;
+}
+
+
+/* LANDING PAGE - five vines section */
+
+.thirdimg {
+	overflow: hidden;
+}
+
+.landing-image3 {
+	margin-top: 466.8px;
+	position: fixed;
+}
+
+.landinglogo3 {
+	position: fixed;
+	top: 466.8px;
+	width: 150px;
+}
+
+.friends3 {
+	position: fixed;
+	left: 10px;
+	top: 637px;
+}
+
+.button3 {
+	background-color: #b26a6a;
+	width: 55px;
+	height: 20px;
+	position: fixed;
+	border-radius: 5px;
+	cursor: pointer;
+	border: none;
+	margin-top: 637px;
+	color: white;
+	font-size: 14px;
+	right: 10px;
+}
